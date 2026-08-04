@@ -9,10 +9,10 @@
       "frequency": "430.125 MHz +1.6",
       "location": "Hilversum, Netherlands — nationwide UHF coverage",
       "region": "Netherlands",
-      "streamURL": "https://stream.hobbyscoop.nl/pi2nos",
+      "streamURL": "http://stream.hobbyscoop.nl/pi2nos",
       "infoURL": "https://www.hobbyscoop.nl/",
       "broadcastifyFeedID": null,
-      "notes": "Web receiver operated by Stichting Scoop Hobbyfonds."
+      "notes": "Web receiver by Stichting Scoop Hobbyfonds. Plain-http endpoint on purpose: their https serves a leaf-only chain that iOS rejects (no AIA fetching); http plays under the ATS media exception."
     },
     {
       "id": "pi3utr",
@@ -21,10 +21,10 @@
       "frequency": "145.575 MHz −0.6",
       "location": "IJsselstein, Netherlands — central VHF repeater",
       "region": "Netherlands",
-      "streamURL": "https://stream.hobbyscoop.nl/pi3utr",
+      "streamURL": "http://stream.hobbyscoop.nl/pi3utr",
       "infoURL": "https://www.hobbyscoop.nl/",
       "broadcastifyFeedID": null,
-      "notes": "Web receiver operated by Stichting Scoop Hobbyfonds."
+      "notes": "Web receiver by Stichting Scoop Hobbyfonds. Plain-http endpoint on purpose: their https serves a leaf-only chain that iOS rejects (no AIA fetching); http plays under the ATS media exception."
     },
     {
       "id": "winsystem",
