@@ -73,6 +73,42 @@
       "infoURL": "https://www.radioreference.com/apps/audio/?feedId=11341",
       "broadcastifyFeedID": "11341",
       "notes": null
+    },
+    {
+      "id": "k2att-k2spd",
+      "title": "K2ATT / K2SPD Long Island",
+      "callsign": "K2ATT",
+      "frequency": "146.850 / 145.330 MHz",
+      "location": "Long Island, New York",
+      "region": "New York",
+      "streamURL": "http://live.monitorlongisland.com:8005/hamradio-k2att_k2spd",
+      "infoURL": "https://www.w2lie.net/",
+      "broadcastifyFeedID": null,
+      "notes": "Two linked Long Island repeaters, streamed by W2LIE."
+    },
+    {
+      "id": "pi3goe",
+      "title": "PI3GOE Goes",
+      "callsign": "PI3GOE",
+      "frequency": "145.775 MHz −0.6",
+      "location": "Goes, Netherlands — JO11WM",
+      "region": "Netherlands",
+      "streamURL": "http://stream.hobbyscoop.nl/pi3goe",
+      "infoURL": "https://www.hobbyscoop.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "Zeeland regional repeater, Hobbyscoop web receiver."
+    },
+    {
+      "id": "pi2nos-meetnet",
+      "title": "PI2NOS Meetnet",
+      "callsign": "PI2NOS",
+      "frequency": "431.600 MHz",
+      "location": "Netherlands — measurement/beacon channel",
+      "region": "Netherlands",
+      "streamURL": "http://stream.hobbyscoop.nl/meetnet",
+      "infoURL": "https://www.hobbyscoop.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "Hobbyscoop Meetnet channel — quieter than the main repeaters."
     }
   ]
 }
