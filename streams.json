@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "updated": "2026-08-03",
+  "streams": [
+    {
+      "id": "test-signal",
+      "title": "QSX Test Signal",
+      "callsign": null,
+      "frequency": null,
+      "location": "Not a repeater — public music stream for checking audio",
+      "region": "Test",
+      "streamURL": "https://ice1.somafm.com/dronezone-128-mp3",
+      "infoURL": "https://somafm.com/dronezone/",
+      "broadcastifyFeedID": null,
+      "notes": "Development placeholder proving the player path end-to-end. Remove before release."
+    },
+    {
+      "id": "winsystem",
+      "title": "The WIN System",
+      "callsign": "K6JSI",
+      "frequency": "449.980 MHz −5.0",
+      "location": "Southern California — 70+ linked repeaters worldwide",
+      "region": "California",
+      "streamURL": null,
+      "infoURL": "https://www.winsystem.org/",
+      "broadcastifyFeedID": "8468",
+      "notes": "Direct stream retired in favor of Broadcastify (login-gated); needs a sourced stream URL."
+    },
+    {
+      "id": "gb3ek",
+      "title": "GB3EK Margate",
+      "callsign": "GB3EK",
+      "frequency": "145.6625 MHz −0.6",
+      "location": "Margate, Kent, UK",
+      "region": "United Kingdom",
+      "streamURL": null,
+      "infoURL": "https://www.broadcastify.com/listen/feed/27837",
+      "broadcastifyFeedID": "27837",
+      "notes": null
+    },
+    {
+      "id": "gb3ck",
+      "title": "GB3CK Ashford",
+      "callsign": "GB3CK",
+      "frequency": "145.7375 MHz −0.6",
+      "location": "Ashford, Kent, UK",
+      "region": "United Kingdom",
+      "streamURL": null,
+      "infoURL": "https://www.radioreference.com/apps/audio/?feedId=11341",
+      "broadcastifyFeedID": "11341",
+      "notes": null
+    }
+  ]
+}
