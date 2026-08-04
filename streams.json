@@ -1,18 +1,30 @@
 {
   "version": 1,
-  "updated": "2026-08-03",
+  "updated": "2026-08-04",
   "streams": [
     {
-      "id": "test-signal",
-      "title": "QSX Test Signal",
-      "callsign": null,
-      "frequency": null,
-      "location": "Not a repeater — public music stream for checking audio",
-      "region": "Test",
-      "streamURL": "https://ice1.somafm.com/dronezone-128-mp3",
-      "infoURL": "https://somafm.com/dronezone/",
+      "id": "pi2nos",
+      "title": "PI2NOS Hilversum",
+      "callsign": "PI2NOS",
+      "frequency": "430.125 MHz +1.6",
+      "location": "Hilversum, Netherlands — nationwide UHF coverage",
+      "region": "Netherlands",
+      "streamURL": "https://stream.hobbyscoop.nl/pi2nos",
+      "infoURL": "https://www.hobbyscoop.nl/",
       "broadcastifyFeedID": null,
-      "notes": "Development placeholder proving the player path end-to-end. Remove before release."
+      "notes": "Web receiver operated by Stichting Scoop Hobbyfonds."
+    },
+    {
+      "id": "pi3utr",
+      "title": "PI3UTR Utrecht",
+      "callsign": "PI3UTR",
+      "frequency": "145.575 MHz −0.6",
+      "location": "IJsselstein, Netherlands — central VHF repeater",
+      "region": "Netherlands",
+      "streamURL": "https://stream.hobbyscoop.nl/pi3utr",
+      "infoURL": "https://www.hobbyscoop.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "Web receiver operated by Stichting Scoop Hobbyfonds."
     },
     {
       "id": "winsystem",
@@ -24,7 +36,7 @@
       "streamURL": null,
       "infoURL": "https://www.winsystem.org/",
       "broadcastifyFeedID": "8468",
-      "notes": "Direct stream retired in favor of Broadcastify (login-gated); needs a sourced stream URL."
+      "notes": "Direct stream retired in favor of Broadcastify (login-gated)."
     },
     {
       "id": "gb3ek",
