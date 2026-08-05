@@ -36,7 +36,40 @@
       "streamURL": "wss://live.eastcoastreflector.com:8080/stream",
       "infoURL": "https://www.eastcoastreflector.com/",
       "broadcastifyFeedID": "12560",
-      "notes": "AllStar/EchoLink/DMR bridge web monitor — DVSwitch PCM over secure WebSocket."
+      "notes": "AllStar/EchoLink/DMR bridge web monitor — DVSwitch PCM over secure WebSocket. Busiest during the weekday Morning Brew.",
+      "nets": [
+        {
+          "name": "The Morning Brew",
+          "days": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "start": "07:00",
+          "durationMinutes": 120,
+          "timeZone": "America/New_York"
+        },
+        {
+          "name": "2nd Cup",
+          "days": [
+            6
+          ],
+          "start": "09:00",
+          "durationMinutes": 60,
+          "timeZone": "America/New_York"
+        },
+        {
+          "name": "Swap Net",
+          "days": [
+            3
+          ],
+          "start": "20:00",
+          "durationMinutes": 60,
+          "timeZone": "America/New_York"
+        }
+      ]
     },
     {
       "id": "pi3boz",
