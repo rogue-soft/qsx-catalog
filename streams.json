@@ -39,6 +39,78 @@
       "notes": "AllStar/EchoLink/DMR bridge web monitor — DVSwitch PCM over secure WebSocket."
     },
     {
+      "id": "pi3boz",
+      "title": "PI3BOZ Bergen op Zoom",
+      "callsign": "PI3BOZ",
+      "frequency": "145.6875 MHz −0.6",
+      "location": "Bergen op Zoom, Netherlands — 2m",
+      "region": "Netherlands",
+      "streamURL": "http://icecast.repeatersboz.nl/pi3boz",
+      "infoURL": "https://www.repeatersboz.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "Repeaters Bergen op Zoom web receiver."
+    },
+    {
+      "id": "pi2boz",
+      "title": "PI2BOZ Bergen op Zoom",
+      "callsign": "PI2BOZ",
+      "frequency": "430.4125 MHz +1.6",
+      "location": "Bergen op Zoom, Netherlands — 70cm FM",
+      "region": "Netherlands",
+      "streamURL": "http://icecast.repeatersboz.nl/pi2boz",
+      "infoURL": "https://www.repeatersboz.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "Repeaters Bergen op Zoom web receiver."
+    },
+    {
+      "id": "pi2boz-c4fm",
+      "title": "PI2BOZ C4FM",
+      "callsign": "PI2BOZ",
+      "frequency": "430.4125 MHz +1.6",
+      "location": "Bergen op Zoom, Netherlands — 70cm digital",
+      "region": "Netherlands",
+      "streamURL": "http://icecast.repeatersboz.nl/pi2boz.c4fm",
+      "infoURL": "https://www.repeatersboz.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "C4FM/Fusion side of the PI2BOZ repeater."
+    },
+    {
+      "id": "pi6boz",
+      "title": "PI6BOZ 10m",
+      "callsign": "PI6BOZ",
+      "frequency": "29.6250 MHz",
+      "location": "Bergen op Zoom, Netherlands — 10m",
+      "region": "Netherlands",
+      "streamURL": "http://icecast.repeatersboz.nl/pi6boz",
+      "infoURL": "https://www.repeatersboz.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "10m repeater — HF propagation, often quiet."
+    },
+    {
+      "id": "wb8crs",
+      "title": "WB8CRS Cadillac",
+      "callsign": "WB8CRS",
+      "frequency": "146.880 MHz −0.6",
+      "location": "Cadillac, Michigan — CFMC repeater + weather",
+      "region": "Michigan",
+      "streamURL": "http://audio.warn.org:8000/warn",
+      "infoURL": "https://www.warn.org/",
+      "broadcastifyFeedID": null,
+      "notes": "Cadillac FM Club repeater, carries weather nets."
+    },
+    {
+      "id": "blind-hams",
+      "title": "Blind Hams Hub",
+      "callsign": null,
+      "frequency": "AllStar node 50631",
+      "location": "Worldwide — AllStar hub for blind operators",
+      "region": "Worldwide",
+      "streamURL": "http://stream.borris.me:8888/blind-hams",
+      "infoURL": "https://www.blindhams.com/",
+      "broadcastifyFeedID": null,
+      "notes": "Active AllStar community hub."
+    },
+    {
       "id": "winsystem",
       "title": "The WIN System",
       "callsign": "K6JSI",
