@@ -214,6 +214,54 @@
       "infoURL": "https://www.hobbyscoop.nl/",
       "broadcastifyFeedID": null,
       "notes": "Hobbyscoop Meetnet channel — quieter than the main repeaters."
+    },
+    {
+      "id": "pi6nos",
+      "title": "PI6NOS 23cm Hilversum",
+      "callsign": "PI6NOS",
+      "frequency": "1298.375 MHz",
+      "location": "Hilversum, Netherlands — rare 23cm band content",
+      "region": "Netherlands",
+      "streamURL": "http://stream.hobbyscoop.nl/pi6nos",
+      "infoURL": "https://www.hobbyscoop.nl/",
+      "broadcastifyFeedID": null,
+      "notes": "Same hobbyscoop web receiver as PI2NOS; found via the Icecast YP directory 2026-08-06. 23cm repeaters are scarce — hearing one at all is the attraction."
+    },
+    {
+      "id": "kc1tcd-r",
+      "title": "KC1TCD-R Ansonia",
+      "callsign": "KC1TCD-R",
+      "frequency": "EchoLink link",
+      "location": "Ansonia, Connecticut",
+      "region": "Connecticut",
+      "streamURL": "http://darksparkradio.com:8000/kc1tcd-r.mp3",
+      "infoURL": null,
+      "broadcastifyFeedID": null,
+      "notes": "Darkspark Radio's monitor of the KC1TCD-R EchoLink node (licensee: B. Dunigan, Ansonia CT — FCC ULS). Found via the Icecast YP directory 2026-08-06."
+    },
+    {
+      "id": "kc1vvm-l",
+      "title": "KC1VVM-L Hamden",
+      "callsign": "KC1VVM-L",
+      "frequency": "EchoLink simplex link",
+      "location": "Hamden, Connecticut",
+      "region": "Connecticut",
+      "streamURL": "http://darksparkradio.com:8000/kc1vvm-l.mp3",
+      "infoURL": null,
+      "broadcastifyFeedID": null,
+      "notes": "Darkspark Radio's monitor of the KC1VVM-L EchoLink simplex node (licensee: J. Schneider, Hamden CT — FCC ULS). Found via the Icecast YP directory 2026-08-06."
+    },
+    {
+      "id": "handihams",
+      "title": "Handiham Network",
+      "callsign": "Handihams",
+      "frequency": "Linked net system",
+      "location": "Minnesota hub — nets for hams with disabilities",
+      "region": "Minnesota",
+      "streamURL": "http://radio.mnenergy.net:8000/Handihams",
+      "infoURL": "https://handiham.org/",
+      "broadcastifyFeedID": null,
+      "notes": "Stream of the Handiham network (Allina Health program serving operators with disabilities). Found via the Icecast YP directory 2026-08-06."
     }
   ]
 }
