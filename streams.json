@@ -262,6 +262,42 @@
       "infoURL": "https://handiham.org/",
       "broadcastifyFeedID": null,
       "notes": "Stream of the Handiham network (Allina Health program serving operators with disabilities). Found via the Icecast YP directory 2026-08-06."
+    },
+    {
+      "id": "bm-tg91",
+      "title": "Brandmeister Worldwide (TG 91)",
+      "callsign": "TG 91",
+      "frequency": "DMR talkgroup 91",
+      "location": "Worldwide calling — the busiest talkgroup on DMR",
+      "region": "Worldwide DMR",
+      "streamURL": "wss://hose.brandmeister.network/spotter/?tg=91",
+      "infoURL": "https://hose.brandmeister.network/",
+      "broadcastifyFeedID": null,
+      "notes": "Needs the operator's free Brandmeister SelfCare token, entered in QSX on iPhone. Audio is 8 kHz PCM in MessagePack frames."
+    },
+    {
+      "id": "bm-tg3100",
+      "title": "Brandmeister USA (TG 3100)",
+      "callsign": "TG 3100",
+      "frequency": "DMR talkgroup 3100",
+      "location": "USA nationwide bridge",
+      "region": "Worldwide DMR",
+      "streamURL": "wss://hose.brandmeister.network/spotter/?tg=3100",
+      "infoURL": "https://hose.brandmeister.network/",
+      "broadcastifyFeedID": null,
+      "notes": "Needs the operator's free Brandmeister SelfCare token, entered in QSX on iPhone."
+    },
+    {
+      "id": "bm-tg235",
+      "title": "Brandmeister UK (TG 235)",
+      "callsign": "TG 235",
+      "frequency": "DMR talkgroup 235",
+      "location": "United Kingdom calling",
+      "region": "Worldwide DMR",
+      "streamURL": "wss://hose.brandmeister.network/spotter/?tg=235",
+      "infoURL": "https://hose.brandmeister.network/",
+      "broadcastifyFeedID": null,
+      "notes": "Needs the operator's free Brandmeister SelfCare token, entered in QSX on iPhone."
     }
   ]
 }
