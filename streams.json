@@ -288,7 +288,7 @@
       "streamURL": "wss://hose.brandmeister.network/spotter/?tg=91",
       "infoURL": "https://hose.brandmeister.network/",
       "broadcastifyFeedID": null,
-      "notes": "Needs the operator's free Brandmeister SelfCare token, entered in QSX on iPhone. Audio is 8 kHz PCM in MessagePack frames."
+      "notes": "Needs no setup — QSX uses Brandmeister's own public player token. The busiest talkgroup on DMR, so there is almost always someone on."
     },
     {
       "id": "bm-tg3100",
@@ -300,11 +300,11 @@
       "streamURL": "wss://hose.brandmeister.network/spotter/?tg=3100",
       "infoURL": "https://hose.brandmeister.network/",
       "broadcastifyFeedID": null,
-      "notes": "Needs the operator's free Brandmeister SelfCare token, entered in QSX on iPhone."
+      "notes": "Needs no setup — QSX uses Brandmeister's own public player token. Nationwide USA bridge: busy at times, silent at others, which is normal for DMR."
     },
     {
       "id": "bm-tg235",
-      "title": "Brandmeister UK (TG 235)",
+      "title": "Brandmeister UK Calling (TG 235)",
       "callsign": "TG 235",
       "frequency": "DMR talkgroup 235",
       "location": "United Kingdom calling",
@@ -312,7 +312,7 @@
       "streamURL": "wss://hose.brandmeister.network/spotter/?tg=235",
       "infoURL": "https://hose.brandmeister.network/",
       "broadcastifyFeedID": null,
-      "notes": "Needs the operator's free Brandmeister SelfCare token, entered in QSX on iPhone."
+      "notes": "Needs no setup — QSX uses Brandmeister's own public player token. This is the UK *calling* channel — Brandmeister's own name for it is “UK Call — QSY to 2351 or 2352”, so expect long silences while conversations move elsewhere."
     }
   ]
 }
