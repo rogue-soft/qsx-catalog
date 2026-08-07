@@ -33,10 +33,10 @@
       "frequency": "444.150 MHz +5.0",
       "location": "Buffalo, NY hub — large multi-mode linked network",
       "region": "New York",
-      "streamURL": "wss://live.eastcoastreflector.com:8080/stream",
+      "streamURL": null,
       "infoURL": "https://www.eastcoastreflector.com/",
       "broadcastifyFeedID": "12560",
-      "notes": "AllStar/EchoLink/DMR bridge web monitor — DVSwitch PCM over secure WebSocket. Busiest during the weekday Morning Brew.",
+      "notes": "Live audio temporarily unavailable — ECR's public web monitor went offline in Aug 2026 when their hub moved behind a member login; the old stream host now serves a bare nginx page. Card stays for the directory info; audio returns the moment they publish a public monitor again. AllStar/EchoLink/DMR bridge web monitor — DVSwitch PCM over secure WebSocket. Busiest during the weekday Morning Brew.",
       "nets": [
         {
           "name": "The Morning Brew",
