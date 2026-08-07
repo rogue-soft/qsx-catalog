@@ -33,10 +33,9 @@
       "frequency": "444.150 MHz +5.0",
       "location": "Buffalo, NY hub — large multi-mode linked network",
       "region": "New York",
-      "streamURL": "wss://hose.brandmeister.network/spotter/?tg=3129973",
-      "infoURL": "https://www.eastcoastreflector.com/",
+      "infoURL": "https://www.broadcastify.com/listen/feed/12560",
       "broadcastifyFeedID": "12560",
-      "notes": "Audio via ECR's DMR side: Brandmeister talkgroup 3129973 on the public Hoseline (their multi-mode bridge carries the nets across AllStar, DMR, EchoLink and more). ECR's own direct web monitor went dark in their Aug 2026 hub migration — their Broadcastify feed (12560) is the other public path and is linked on this card. Busiest during the weekday Morning Brew.",
+      "notes": "ECR's own web stream went dark in their Aug 2026 hub migration, and the advertised Brandmeister bridge (TG 3129973) is no longer passing traffic. The working public path is their Broadcastify feed (12560): free in the browser via the link on this card, or in-app with Broadcastify Premium. Busiest during the weekday Morning Brew.",
       "nets": [
         {
           "name": "The Morning Brew",
