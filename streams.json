@@ -68,7 +68,8 @@
           "durationMinutes": 60,
           "timeZone": "America/New_York"
         }
-      ]
+      ],
+      "statusNote": "ECR's own stream is down for maintenance. Until it returns, listening is through their Broadcastify feed."
     },
     {
       "id": "pi3boz",
