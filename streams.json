@@ -33,9 +33,9 @@
       "frequency": "444.150 MHz +5.0",
       "location": "Buffalo, NY hub — large multi-mode linked network",
       "region": "New York",
-      "infoURL": "https://www.broadcastify.com/listen/feed/12560",
+      "infoURL": "https://www.eastcoastreflector.com/",
       "broadcastifyFeedID": "12560",
-      "notes": "ECR's own web stream went dark in their Aug 2026 hub migration, and the advertised Brandmeister bridge (TG 3129973) is no longer passing traffic. The working public path is their Broadcastify feed (12560): free in the browser via the link on this card, or in-app with Broadcastify Premium. Busiest during the weekday Morning Brew.",
+      "notes": "ECR's multi-mode system: AllStar, EchoLink, DMR and more, bridged together. Direct stream from their DVSwitch monitor; their Broadcastify feed (12560) is the fallback path. Busiest during the weekday Morning Brew.",
       "nets": [
         {
           "name": "The Morning Brew",
@@ -69,7 +69,7 @@
           "timeZone": "America/New_York"
         }
       ],
-      "statusNote": "ECR's own stream is down for maintenance. Until it returns, listening is through their Broadcastify feed."
+      "streamURL": "wss://live.eastcoastreflector.com:8080/stream"
     },
     {
       "id": "pi3boz",
