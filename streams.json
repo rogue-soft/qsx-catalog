@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "updated": "2026-08-09",
   "streams": [
     {
@@ -73,12 +73,17 @@
       "nodeStatusURL": "https://ecrhub.hamcolo.com/nodeinfo/servstat.php",
       "topology": {
         "allStarNode": "27339",
+        "allStarNodes": [
+          "27339",
+          "45225"
+        ],
         "irlpReflector": "9050",
         "echoLinkStations": [
           "WB2JPQ-R",
           "WB2JPQ-L",
           "*ECR9050*"
-        ]
+        ],
+        "hamsOverIP": true
       }
     },
     {
