@@ -70,7 +70,7 @@
         }
       ],
       "streamURL": "wss://live.eastcoastreflector.com:8080/stream",
-      "nodeStatusURL": "https://ecrhub.hamcolo.com/nodeinfo/servstat.php",
+      "nodeStatusURL": "https://qsx-relay.qsx-relay.workers.dev/ecr?backlog=1",
       "topology": {
         "allStarNode": "27339",
         "allStarNodes": [
