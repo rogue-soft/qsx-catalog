@@ -60,11 +60,47 @@
           "timeZone": "America/New_York"
         },
         {
+          "name": "Tech Net",
+          "days": [
+            3
+          ],
+          "start": "20:00",
+          "durationMinutes": 120,
+          "timeZone": "America/New_York"
+        },
+        {
           "name": "Swap Net",
           "days": [
             3
           ],
           "start": "20:00",
+          "durationMinutes": 60,
+          "timeZone": "America/New_York"
+        },
+        {
+          "name": "Open Mic Night",
+          "days": [
+            4
+          ],
+          "start": "20:00",
+          "durationMinutes": 60,
+          "timeZone": "America/New_York"
+        },
+        {
+          "name": "Youth Net",
+          "days": [
+            6
+          ],
+          "start": "20:00",
+          "durationMinutes": 60,
+          "timeZone": "America/New_York"
+        },
+        {
+          "name": "Trivia Net",
+          "days": [
+            7
+          ],
+          "start": "23:00",
           "durationMinutes": 60,
           "timeZone": "America/New_York"
         }
