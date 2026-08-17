@@ -120,7 +120,8 @@
           "*ECR9050*"
         ],
         "hamsOverIP": true
-      }
+      },
+      "qrxNetID": "ecr-morning-brew"
     },
     {
       "id": "pi3boz",
@@ -192,7 +193,8 @@
       "streamURL": "http://stream.borris.me:8888/blind-hams",
       "infoURL": "https://www.blindhams.com/",
       "broadcastifyFeedID": null,
-      "notes": "Active AllStar community hub."
+      "notes": "Active AllStar community hub.",
+      "qrxNetID": "blind-hams-cross-country"
     },
     {
       "id": "winsystem",
